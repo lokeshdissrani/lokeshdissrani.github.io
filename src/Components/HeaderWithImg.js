@@ -22,7 +22,7 @@ export default class HeaderWithImg extends React.Component{
     render(){
         return(
                 <Header>
-                    <Img src="https://media-exp1.licdn.com/dms/image/C4E03AQH689io70sl-Q/profile-displayphoto-shrink_400_400/0?e=1602720000&v=beta&t=KwXTmUG4inLkmg5Dz8plY10k71NaIUPRf_QtEdrbRe0" alt="logo"></Img>
+                    <Img src="https://drive.google.com/file/d/1eZ_g_Wgm_S6YJsctLQ423LYNdhBax_xQ/view?usp=sharing" alt="logo"></Img>
                 </Header>
         )
     }
