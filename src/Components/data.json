@@ -12,8 +12,8 @@
         "name":"Currency Converter",
         "details":"Know Your Currency Value w.r.t other Country's Currency",
         "imgsrc":"https://i.ibb.co/L5k6711/currencyconverter-deploy.png",
-        "githublink":"https://github.com/lokeshdissrani/currencyconverter-deploy",
-        "projectlink":"https://lokeshdissrani.github.io/currencyconverter-deploy/",
+        "githublink":"https://github.com/lokeshdissrani/currency_converter-deploy",
+        "projectlink":"https://lokeshdissrani.github.io/currency_converter-deploy/",
         "techused":["html5","css3","bootstrap","react","javascript"]
     },
     

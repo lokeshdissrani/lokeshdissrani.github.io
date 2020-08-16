@@ -20,7 +20,7 @@ export default class Card extends React.Component{
         const {name,imgsrc,details,githublink,projectlink,techused}=this.props
         return(
             <Singlecard>
-                <img src={imgsrc} alt="logo" width="200px" height="200px" />
+                <img src={imgsrc} alt="logo" width="100%" height="60%" />
                 <h2>{name}</h2>
                 <h3>{details}</h3>
                 <p>
