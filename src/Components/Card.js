@@ -24,8 +24,8 @@ export default class Card extends React.Component{
                 <h2>{name}</h2>
                 <h3>{details}</h3>
                 <p>
-                    Github Link <a href={githublink}><FontAwesomeIcon size="2x" icon={faGithub} style={{marginRight:"40px",color:"black"}} /></a>
-                    Demo Link <a href={projectlink}><FontAwesomeIcon size="2x" icon={faExternalLinkAlt} style={{color:"black"}} /></a>
+                    <a href={githublink} target="_blank" >Github Link <FontAwesomeIcon size="2x" icon={faGithub} style={{marginRight:"40px",color:"black"}} /></a>
+                    <a href={projectlink} target="_blank"  >Demo Link <FontAwesomeIcon size="2x" icon={faExternalLinkAlt} style={{color:"black"}} /></a>
                 </p>
                 <p>
                     {techused.map((item)=>(
