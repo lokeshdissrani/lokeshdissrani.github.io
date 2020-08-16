@@ -2,7 +2,7 @@
     {
     "name":"Hangman",
     "details":"Popular Hangman Game-Guess the celebrity name to win in limited chances",
-    "imgsrc":"https://ibb.co/10m7BVv",
+    "imgsrc":"https://i.ibb.co/RgDYtnv/hangman-deploy.png",
     "githublink":"https://github.com/lokeshdissrani/hangman-deploy",
     "projectlink":"https://lokeshdissrani.github.io/hangman-deploy/",
     "techused":["html5","css3","bootstrap","react","javascript"]
@@ -11,7 +11,7 @@
     {
         "name":"Currency Converter",
         "details":"Know Your Currency Value w.r.t other Country's Currency",
-        "imgsrc":"https://ibb.co/5FMvHLL",
+        "imgsrc":"https://i.ibb.co/L5k6711/currencyconverter-deploy.png",
         "githublink":"https://github.com/lokeshdissrani/currencyconverter-deploy",
         "projectlink":"https://lokeshdissrani.github.io/currencyconverter-deploy/",
         "techused":["html5","css3","bootstrap","react","javascript"]
@@ -20,7 +20,7 @@
     {
         "name":"Food Delivery System",
             "details":"Manage Online Food Delivery System by coordinating Consumers, Providers and Food Delivery Boy",
-            "imgsrc":"https://ibb.co/sPVCfyh",
+            "imgsrc":"https://i.ibb.co/H2HCSn0/fooddeliverysystem-deploy.png",
             "githublink":"https://github.com/lokeshdissrani/fooddeliverysystem-deploy",
             "projectlink":"https://lokeshdissrani.github.io/fooddeliverysystem-deploy/",
             "techused":["html5","css3","bootstrap","react","javascript"]
@@ -28,7 +28,7 @@
     {
         "name":"Expense Manager",
         "details":"Manage Your Expenses, Savings, Budget Spending and more with our Expense Manager",
-        "imgsrc":"https://ibb.co/341VqTW",
+        "imgsrc":"https://i.ibb.co/zQsCYmb/expense-manager-deploy.png",
         "githublink":"https://github.com/lokeshdissrani/expensemanager-deploy",
         "projectlink":"https://lokeshdissrani.github.io/expensemanager-deploy/",
         "techused":["html5","css3","bootstrap","react","javascript"]
@@ -37,7 +37,7 @@
     {
         "name":"The Social Network",
         "details":"The Social Network lets you connect with people all over the world where everyone can share their thoughts, views, photos and more.",
-        "imgsrc":"https://ibb.co/yqjLcnx",
+        "imgsrc":"https://i.ibb.co/qpQb3M2/thesocialnetwork-deploy.png",
         "githublink":"https://github.com/lokeshdissrani/thesocialnetwork-deploy",
         "projectlink":"https://lokeshdissrani.github.io/thesocialnetwork-deploy/",
         "techused":["html5","css3","bootstrap","react","javascript"]
