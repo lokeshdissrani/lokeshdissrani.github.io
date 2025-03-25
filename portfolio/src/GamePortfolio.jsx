@@ -70,10 +70,6 @@ const GamePortfolio = () => {
                 <h3>Lokesh the Engineer</h3>
                 <p>Backend Developer</p>
                 <p>Specialty: Cloud Architecture</p>
-                <a href="https://</div>www.linkedin.com/in/lokeshdissrani" target="_blank" rel="noopener noreferrer">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
-                </a>
-                <br/>
                 <button 
                   className="game-button"
                   onClick={() => showMessage("Ready for adventure!")}
