@@ -95,8 +95,8 @@ const GamePortfolio = () => {
                 <a href="https://www.linkedin.com/in/lokeshdissrani" target="_blank" rel="noopener noreferrer">
                   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
                 </a>
-                <a href="assets_management/" target="_blank" rel="noopener noreferrer"> Assets Management
-                  <img src="https://commons.wikimedia.org/wiki/Category:Bank_icons#/media/File:Breezeicons-apps-48-homebank.svg" alt="LinkedIn" width="40" />
+                <a href="assets_management/" target="_blank" rel="noopener noreferrer"><h3> Assets Management</h3>
+                  <img src="https://img.freepik.com/free-vector/people-taking-out-money-from-bank-concept-illustration_114360-13931.jpg?t=st=1743089182~exp=1743092782~hmac=2acce0a2c41dc95c73d3b400b8a7c5adec05a71b8a8f0be8d3e5f518942af4d3&w=826" alt="Bank" width="40" />
                 </a>
                 <br/>
                 <button 
