@@ -12,12 +12,34 @@ const GamePortfolio = () => {
 
   const skills = [
     { name: 'Python', level: 85, icon: '🐍' },
+    { name: 'JavaScript', level: 80, icon: '🟨' },
+    { name: 'TypeScript', level: 75, icon: '🔷' },
+    { name: 'React', level: 85, icon: '⚛️' },
+    { name: 'Node.js', level: 80, icon: '🌿' },
+    { name: 'Express.js', level: 75, icon: '🚀' },
     { name: 'AWS', level: 90, icon: '☁️' },
+    { name: 'Docker', level: 85, icon: '🐳' },
+    { name: 'Kubernetes', level: 75, icon: '🚢' },
+    { name: 'Terraform', level: 80, icon: '🛠️' },
+    { name: 'CloudFormation', level: 70, icon: '🏗️' },
     { name: 'MySQL', level: 80, icon: '🗃️' },
-    { name: 'API Dev', level: 85, icon: '🔌' },
+    { name: 'PostgreSQL', level: 75, icon: '🐘' },
+    { name: 'MongoDB', level: 78, icon: '🍃' },
+    { name: 'GraphQL', level: 70, icon: '🔍' },
+    { name: 'REST APIs', level: 85, icon: '🔌' },
+    { name: 'API Dev', level: 85, icon: '📡' },
+    { name: 'Microservices', level: 80, icon: '🔗' },
     { name: 'Data Analytics', level: 75, icon: '📊' },
-    { name: 'CloudFormation', level: 70, icon: '🏗️' }
+    { name: 'Machine Learning', level: 70, icon: '🤖' },
+    { name: 'CI/CD', level: 80, icon: '⚙️' },
+    { name: 'Jenkins', level: 75, icon: '🛠️' },
+    { name: 'Git', level: 90, icon: '🔗' },
+    { name: 'Linux', level: 85, icon: '🐧' },
+    { name: 'Bash Scripting', level: 80, icon: '📜' },
+    { name: 'Agile & Scrum', level: 85, icon: '🏃' },
+    { name: 'Serverless', level: 75, icon: '⚡' }
   ];
+
 
   const quests = [
     { title: 'Krowdit.com', completed: true, reward: 'Backend Systems' },
@@ -70,8 +92,11 @@ const GamePortfolio = () => {
                 <h3>Lokesh the Engineer</h3>
                 <p>Backend Developer</p>
                 <p>Specialty: Cloud Architecture</p>
-                <a href="www.linkedin.com/in/lokeshdissrani" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/lokeshdissrani" target="_blank" rel="noopener noreferrer">
                   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
+                </a>
+                <a href="assets_management/" target="_blank" rel="noopener noreferrer"> Assets Management
+                  <img src="https://commons.wikimedia.org/wiki/Category:Bank_icons#/media/File:Breezeicons-apps-48-homebank.svg" alt="LinkedIn" width="40" />
                 </a>
                 <br/>
                 <button 
@@ -126,6 +151,13 @@ const GamePortfolio = () => {
               <div className="log-entry">
                 <h3>Bank of America (2021)</h3>
                 <p>Lockbox Operations team member</p>
+              </div>
+            </div>
+            <h2>Qualifications</h2>
+            <div className="quest-log">
+              <div className="log-entry">
+                <h3>B.Tech (Computer Science)</h3>
+                <p>8.23 CGPA</p>
               </div>
             </div>
           </div>
